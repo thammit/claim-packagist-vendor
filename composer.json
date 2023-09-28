@@ -1,0 +1,7 @@
+{
+    "name": "thamm-it/claim-packagist-vendor",
+    "description": "Claim vendor name",
+    "require": {
+        "php": ">=8.2"
+    }
+}
